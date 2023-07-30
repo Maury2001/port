@@ -53,22 +53,25 @@ const About = () => {
                 Biography
               </h2>
               <p className="font-medium">
-                Hi, I&apos;m Meshack, a web developer and designer with a
+              {"Hi, I&apos;m Meshack, a web developer and designer with a
                 passion for creating beautiful, functional, and user-centered
                 digital experiences. I
                 am always looking for new and innovative ways to bring my
-                clients&apos; visions to life.
+                clients&apos; visions to life."}
+                
               </p>
               <p className="font-medium my-6">
-              I am a fast learner and embrace new challenges with adaptability and curiosity. Detail-oriented and analytical, I take pride in producing clean and efficient code while continuously seeking to improve my skills and stay up-to-date with the latest industry trends. I have a solid foundation in programming languages, development methodologies, and problem-solving skills.
-              </p>
+                  {"I am a fast learner and embrace new challenges with adaptability and curiosity. Detail-oriented and analytical, I take pride in producing clean and efficient code while continuously seeking to improve my skills and stay up-to-date with the latest industry trends. I have a solid foundation in programming languages, development methodologies, and problem-solving skills.
+             "}
+               </p>
               <p className="font-medium ">
-                Whether I&apos;m working on a website or other digital
+                  {" Whether I&apos;m working on a website or other digital
                 product, I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
                 your next project. I thrive in collaborative environments and approach problem-solving with a positive attitude, always eager to contribute to the success of the team.
-              </p>
+             "}
+                </p>
             </div>
 
             <div className="col-span-3 relative h-max border-2 border-solid border-dark rounded-3xl bg-light p-8 xl:col-span-4 md:order-1 md:col-span-8">
