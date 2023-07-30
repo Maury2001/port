@@ -36,11 +36,11 @@ export default function Home() {
                 className="!text-5xl !text-left xl:!text-4xl lg:!text-center lg:!text-6xl md:!text-4xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs ">
-                {" "}
-                I&apos;m a skilled Entry-Level full-stack developer, I am dedicated to turning
+                {"   I&apos;m a skilled Entry-Level full-stack developer, I am dedicated to turning
                 ideas into innovative web applications. Explore my latest
                 projects and articles, showcasing my expertise in React.js and
-                web development.
+                web development. "}
+              
               </p>
               <div className="flex items-center self-start mt-2 gap-4 lg:self-center">
                 <Link
