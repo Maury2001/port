@@ -63,7 +63,7 @@ const projects = () => {
         <Layout className="pt-16">
           <AnimatedText
             text={"Weaving Web Wonders"}
-            className=" text-5xl mb-10 lg:!text-6xl sm:!text-5xl xs:!text-4xl"
+            className=" !text-5xl mb-10 lg:!text-6xl sm:!text-5xl xs:!text-4xl"
           />
           <div className=" grid grid-cols-12 gap-24 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
             <div className="col-span-12">
