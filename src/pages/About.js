@@ -53,36 +53,24 @@ const About = () => {
                 Biography
               </h2>
               <p className="font-medium">
-<<<<<<< HEAD
-                Hi, I&apos;m Meshack, a web developer and designer with a
+              Hi, I&apos;m Meshack, a web developer and designer with a
                 passion for creating beautiful, functional, and user-centered
                 digital experiences. I
                 am always looking for new and innovative ways to bring my
                 clients&apos; visions to life.
-=======
-              {"Hi, I&apos;m Meshack, a web developer and designer with a
-                passion for creating beautiful, functional, and user-centered
-                digital experiences. I
-                am always looking for new and innovative ways to bring my
-                clients&apos; visions to life."}
                 
->>>>>>> 805adbcf5fe460c65bd40d8fcd1cdd7a043bdbf4
               </p>
               <p className="font-medium my-6">
-                  {"I am a fast learner and embrace new challenges with adaptability and curiosity. Detail-oriented and analytical, I take pride in producing clean and efficient code while continuously seeking to improve my skills and stay up-to-date with the latest industry trends. I have a solid foundation in programming languages, development methodologies, and problem-solving skills.
-             "}
+                I am a fast learner and embrace new challenges with adaptability and curiosity. Detail-oriented and analytical, I take pride in producing clean and efficient code while continuously seeking to improve my skills and stay up-to-date with the latest industry trends. I have a solid foundation in programming languages, development methodologies, and problem-solving skills.
+             
                </p>
               <p className="font-medium ">
-<<<<<<< HEAD
                 Whether I&apos;m working on a website or other digital
-=======
-                  {" Whether I&apos;m working on a website or other digital
->>>>>>> 805adbcf5fe460c65bd40d8fcd1cdd7a043bdbf4
                 product, I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
                 your next project. I thrive in collaborative environments and approach problem-solving with a positive attitude, always eager to contribute to the success of the team.
-             "}
+             
                 </p>
             </div>
 
@@ -119,7 +107,7 @@ const About = () => {
                   <AnimatedNumbers value={1} />
                 </span>
                 <h2 className=" text-xl font-medium capitalize text-dark/75 xl:text-center md:text-lg sm:text-base">
-                  Years of Experience{" "}
+                  Years of Experience
                 </h2>
               </div>
             </div>
