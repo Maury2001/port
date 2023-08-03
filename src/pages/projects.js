@@ -68,8 +68,8 @@ const projects = () => {
           <div className=" grid grid-cols-12 gap-24 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
             <div className="col-span-12">
               <FeaturedProject
-                title={"React Portfolio Website"}
-                summary="A professional portfolio website using React JS, Framer-motion, and Styled-components. It has smooth 
+                title={"Portfolio Website"}
+                summary="A professional portfolio website using Next JS, Framer-motion, and Styled-components. It has smooth 
 page transitions, cool background effects, unique design and it is mobile responsive.
 "
                 link={""}

@@ -40,7 +40,7 @@ const Skills = () => {
         <Skill name="WEB DESIGN" x={"32vw"} y={"-5vw"}/>
         <Skill name="TAILWIND" x={"-20vw"} y={"-20vw"}/>
         <Skill name="bOOTSTRAP" x={"-25vw"} y={"18vw"}/>
-        <Skill name="DJANGO" x={"-13vw"} y={"vw"}/>
+        <Skill name="DJANGO" x={"-13vw"} y={"0vw"}/>
         <Skill name="PYTHON" x={"-15vw"} y={"-15vw"}/>
         </div>
     </>
