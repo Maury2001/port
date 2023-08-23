@@ -9,6 +9,7 @@ import reactproject from "../../public/images/projects/portfolio-cover-image.jpg
 import electronic from "../../public/images/projects/electronic.jpg";
 import hulu from "../../public/images/projects/hulu.jpg";
 import park from "../../public/images/projects/parking.png";
+import harry from "../../public/images/projects/harry.png";
 import TransitionEffect from "@/components/TransitionEffect";
 import { motion } from "framer-motion";
 
@@ -98,6 +99,14 @@ page transitions, cool background effects, unique design and it is mobile respon
                 summary="The Vehicle Parking System is a Java-based software application designed to manage and streamline the parking process in a parking lot or garage. The system aims to automate the parking operations, making it convenient for both the parking lot operators and the customers."
                 link={"https://github.com/Maury2001/Car-Park-Project.git"}
                 img={park}
+              />
+            </div>
+            <div className="col-span-12">
+              <FeaturedProject
+                title={" Harry Potter Character Catalog-NextJs"}
+                summary="The Harry Potter Character Catalog is a web application designed to cater to the curiosity of Harry Potter enthusiasts. It serves as a comprehensive repository of information about the beloved characters from the magical world created by J.K. Rowling. By utilizing the Harry Potter API, the project offers users an engaging platform to explore and learn more about the characters that have captured the hearts of fans worldwide."
+                link={"https://harry-potter-ruby.vercel.app/"}
+                img={harry}
               />
             </div>
           </div>
